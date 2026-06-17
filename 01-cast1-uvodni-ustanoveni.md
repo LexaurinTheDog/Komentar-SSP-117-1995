@@ -16,6 +16,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 138/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-138-01) — usnesení, 15. 11. 2001
+  > „Pokud stěžovatelka namítla porušení čl. 30 odst. 2 Listiny, je třeba usuzovat, že uvedené ustanovení Listiny zakotvilo ústavní předpoklad pro široké spektrum dávek státní sociální podpory, které jsou podrobněji upraveny zákony (v prvé řadě zákonem č. 117/1995 Sb.) a právní úprava každé jednotlivé dávky koncipuje podmínky, jež nárok oprávněné osoby na příslušnou státní sociální dávku zakládají. Z toho vyplývá jednak účelová určenost jednotlivých dávek státní sociální podpory, jednak jejich vzájemně doplňující charakter"
+
 #### Definice a účel státní sociální podpory (odst. 1)
 
 Odst. 1 podává **definici státní sociální podpory** v jediném souvětí, jež obsahuje dvě dílčí normativní sdělení.
@@ -117,6 +122,11 @@ Odkaz v odst. 3 na „státní sociální dávky uvedené v § 2" je poznámkou 
 > *- c) pohřebné.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [73 Ad 5/2013 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/547912) — 6. 10. 2014
+  > „Podle ustanovení § 2 zákona č. 117/1995 Sb. je příspěvek na bydlení dávkou poskytovanou v závislosti na výši příjmu, z čehož plyne, že záleží na vůli zákonodárce, jak vymezí skupinu oprávněných osob z hlediska jejich sociálního statutu (tzn. dle výše příjmu, užívacího titulu k obývané nemovitosti apod.)"
 
 #### Taxativní katalog dávek
 
@@ -385,6 +395,11 @@ Držitel poštovní licence funguje jen jako „přepážka": na základě zveř
 > *(6) Ministerstvo práce a sociálních věcí může v odůvodněných případech prominout podmínku trvalého pobytu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Azs 11/2010 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/619575) — 17. 9. 2010
+  > „Podle § 3 odst. 2 písm. a) zákona č. 117/1995 Sb., o státní sociální podpoře, náleží osobě, jíž bylo uděleno vízum za účelem strpění pobytu, dávky státní sociální podpory až ode dne, kterým uplynulo 365 dnů ode dne hlášení k pobytu na území České republiky, zatímco podle § 3 odst. 2 písm. g) zákona o státní sociální podpoře náleží beneficiáři doplňkové ochrany dávky státní sociální podpory bez tohoto omezení"
 
 #### Struktura podmínek nároku — základní schéma
 

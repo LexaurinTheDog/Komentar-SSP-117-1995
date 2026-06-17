@@ -47,6 +47,11 @@ Tato situace není editorskou chybou — jde o záměrné zachování původní 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 31/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-31-09_1) — nález, 9. 1. 2013
+  > „Nová právní úprava nároku na rodičovský příspěvek tak rodiči, který pečuje o malé dítě, má umožnit, aby se snáze rozhodl, jestli a po jakou dobu bude rodičovský příspěvek pobírat a také v jaké výši mu bude tato dávka poskytována. Tím se má umožnit, aby rodič mohl lépe sladit své rodičovské povinnosti a profesní roli v závislosti na konkrétní situaci v rodině"
+
 #### Konstrukce nároku — osobní celodenní péče o nejmladší dítě (odst. 1)
 
 § 30 odst. 1 formuluje základní hypotézu vzniku nároku na rodičovský příspěvek čtyřmi kumulativními podmínkami:
@@ -538,6 +543,11 @@ U porodného podle § 44 se posuzuje trojí: pořadí živě narozeného dítět
 > *(4) V případě svěření dítěte do trvalé péče nahrazující péči rodičů manželům náleží porodné jen jednomu z manželů určenému na základě dohody manželů. Nedohodnou-li se manželé, určí orgán, který o porodném rozhoduje, kterému z manželů se porodné přizná.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 35/2012 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/624410) — 19. 4. 2012
+  > „Podle Nejvyššího správního soudu správní orgán, který rozhodoval o žádosti o dávku státní sociální podpory, porodné nepostupoval správně, když nezjišťoval, zda došlo k dohodě mezi manžely o tom, komu má být porodné vyplaceno, jak to vyplývá z § 45 odst. 4 zákona č. 117/1995 Sb"
 
 #### Rozšíření okruhu oprávněných osob — náhradní rodiče (odst. 1)
 

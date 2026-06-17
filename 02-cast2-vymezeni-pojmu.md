@@ -240,6 +240,13 @@ Rozhodné období pro porodné je vždy kalendářní čtvrtletí předcházejí
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ads 159/2016 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639870) — 29. 9. 2016
+  > „institut okruhu společně posuzovaných osob, který slouží ke stanovení rozhodného příjmu pro účely stanovení nároku na dávky státní sociální podpory je zároveň i nutnou součástí výkladu pojmu „rodina“ v intencích § 7 odst. 1 zákona č. 117/1995 Sb. Zákon upravuje definici tohoto pojmu jednak v rovině obecné, a jednak v rovině zvláštní, v níž stanovuje výjimky pro účely některých testovaných dávek státní sociální podpory (sociální příplatek, příspěvek na bydlení). Obecným principem úpravy institutu společně posuzovaných osob, které jsou taxativně vypočteny v ustanovení § 7 odst. 2 písm. a) – d) tohoto zákona, je splnění dvou podmínek, a to jednak trvalého soužití těchto osob s oprávněnou osobou…"
+- *NSS* [30 Ad 2/2025 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743967) — 1. 7. 2025
+  > „rozsah státní sociální podpory a vymezení okruhu osob, které mohou při splnění zákonných podmínek z podpory státu benefitovat, je záležitostí sociální politiky státu, tedy prioritně moci zákonodárné, nikoliv moci soudní. Je na vůli zákonodárce, jakým způsobem stanoví rozsah a vymezí podmínky státní sociální podpory"
+
 #### Pojem rodiny — funkční, nikoli formálně-právní vymezení (odst. 1)
 
 Zákon definuje rodinu **funkčně** pro účely SSP — jde o definiční zákonnou normu, která nemusí odpovídat pojmu rodiny v soukromém právu (občanský zákoník) ani v právu rodinném. Rodinu tvoří **oprávněná osoba** (k pojmu viz § 3 a [01-cast1-uvodni-ustanoveni.md](01-cast1-uvodni-ustanoveni.md)) a osoby s ní **společně posuzované**. Není-li žádné společně posuzované osoby, tvoří rodinu sama oprávněná osoba.
@@ -1014,6 +1021,4 @@ Fikce se neuplatní, **pokud dítě v době prázdnin vykonávalo výdělečnou 
 **Typicky rozhodné důkazy / podklady:** vysvědčení z posledního ročníku ZŠ, rozhodnutí o přijetí / potvrzení o zápisu na SŠ, doklady o prázdninové brigádě (typ smlouvy, doba trvání, účast na pojištění), potvrzení ÚP o evidenci uchazečů.
 
 ---
-
-
 
